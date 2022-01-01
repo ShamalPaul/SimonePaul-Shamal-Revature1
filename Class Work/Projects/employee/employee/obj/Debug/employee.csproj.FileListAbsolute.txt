@@ -1,0 +1,6 @@
+/Users/drastic/Projects/employee/employee/bin/Debug/employee.exe
+/Users/drastic/Projects/employee/employee/bin/Debug/employee.pdb
+/Users/drastic/Projects/employee/employee/obj/Debug/employee.csproj.AssemblyReference.cache
+/Users/drastic/Projects/employee/employee/obj/Debug/employee.csproj.CoreCompileInputs.cache
+/Users/drastic/Projects/employee/employee/obj/Debug/employee.exe
+/Users/drastic/Projects/employee/employee/obj/Debug/employee.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/drastic/.dotnet/store/|arch|/|tfm|",
+      "/Users/drastic/.nuget/packages"
+    ]
+  }
+}

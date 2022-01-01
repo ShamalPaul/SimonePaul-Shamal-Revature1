@@ -1,0 +1,15 @@
+/Users/drastic/Projects/GradingStudents/GradingStudents/obj/Debug/net5.0/GradingStudents.csproj.AssemblyReference.cache
+/Users/drastic/Projects/GradingStudents/GradingStudents/obj/Debug/net5.0/GradingStudents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drastic/Projects/GradingStudents/GradingStudents/obj/Debug/net5.0/GradingStudents.AssemblyInfoInputs.cache
+/Users/drastic/Projects/GradingStudents/GradingStudents/obj/Debug/net5.0/GradingStudents.AssemblyInfo.cs
+/Users/drastic/Projects/GradingStudents/GradingStudents/obj/Debug/net5.0/GradingStudents.csproj.CoreCompileInputs.cache
+/Users/drastic/Projects/GradingStudents/GradingStudents/bin/Debug/net5.0/GradingStudents.deps.json
+/Users/drastic/Projects/GradingStudents/GradingStudents/bin/Debug/net5.0/GradingStudents.runtimeconfig.json
+/Users/drastic/Projects/GradingStudents/GradingStudents/bin/Debug/net5.0/GradingStudents.runtimeconfig.dev.json
+/Users/drastic/Projects/GradingStudents/GradingStudents/bin/Debug/net5.0/GradingStudents.dll
+/Users/drastic/Projects/GradingStudents/GradingStudents/bin/Debug/net5.0/ref/GradingStudents.dll
+/Users/drastic/Projects/GradingStudents/GradingStudents/bin/Debug/net5.0/GradingStudents.pdb
+/Users/drastic/Projects/GradingStudents/GradingStudents/obj/Debug/net5.0/GradingStudents.dll
+/Users/drastic/Projects/GradingStudents/GradingStudents/obj/Debug/net5.0/ref/GradingStudents.dll
+/Users/drastic/Projects/GradingStudents/GradingStudents/obj/Debug/net5.0/GradingStudents.pdb
+/Users/drastic/Projects/GradingStudents/GradingStudents/obj/Debug/net5.0/GradingStudents.genruntimeconfig.cache

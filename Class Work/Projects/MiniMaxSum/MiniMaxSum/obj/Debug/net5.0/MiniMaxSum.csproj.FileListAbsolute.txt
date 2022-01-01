@@ -1,0 +1,15 @@
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.AssemblyInfoInputs.cache
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.AssemblyInfo.cs
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.csproj.CoreCompileInputs.cache
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/bin/Debug/net5.0/MiniMaxSum.deps.json
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/bin/Debug/net5.0/MiniMaxSum.runtimeconfig.json
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/bin/Debug/net5.0/MiniMaxSum.runtimeconfig.dev.json
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/bin/Debug/net5.0/MiniMaxSum.dll
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/bin/Debug/net5.0/ref/MiniMaxSum.dll
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/bin/Debug/net5.0/MiniMaxSum.pdb
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.dll
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/obj/Debug/net5.0/ref/MiniMaxSum.dll
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.pdb
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.genruntimeconfig.cache
+/Users/drastic/Projects/MiniMaxSum/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.csproj.AssemblyReference.cache

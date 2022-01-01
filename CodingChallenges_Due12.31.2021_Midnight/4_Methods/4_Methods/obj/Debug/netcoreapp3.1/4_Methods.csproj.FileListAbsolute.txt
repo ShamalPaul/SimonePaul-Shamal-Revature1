@@ -1,0 +1,13 @@
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/4_Methods/4_Methods/obj/Debug/netcoreapp3.1/4_Methods.csproj.AssemblyReference.cache
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/4_Methods/4_Methods/obj/Debug/netcoreapp3.1/4_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/4_Methods/4_Methods/obj/Debug/netcoreapp3.1/4_Methods.AssemblyInfoInputs.cache
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/4_Methods/4_Methods/obj/Debug/netcoreapp3.1/4_Methods.AssemblyInfo.cs
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/4_Methods/4_Methods/obj/Debug/netcoreapp3.1/4_Methods.csproj.CoreCompileInputs.cache
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/4_Methods/4_Methods/bin/Debug/netcoreapp3.1/4_Methods.deps.json
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/4_Methods/4_Methods/bin/Debug/netcoreapp3.1/4_Methods.runtimeconfig.json
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/4_Methods/4_Methods/bin/Debug/netcoreapp3.1/4_Methods.runtimeconfig.dev.json
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/4_Methods/4_Methods/bin/Debug/netcoreapp3.1/4_Methods.dll
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/4_Methods/4_Methods/bin/Debug/netcoreapp3.1/4_Methods.pdb
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/4_Methods/4_Methods/obj/Debug/netcoreapp3.1/4_Methods.dll
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/4_Methods/4_Methods/obj/Debug/netcoreapp3.1/4_Methods.pdb
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/4_Methods/4_Methods/obj/Debug/netcoreapp3.1/4_Methods.genruntimeconfig.cache

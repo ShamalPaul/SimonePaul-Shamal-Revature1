@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{5EEEF563-8F36-421A-8DEF-5D8F927369B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="README.md" Line="12" Column="144" />
+      <File FileName="Program.cs" Line="104" Column="1" />
+      <File FileName="../4_MethodsChallenge.Tests/ProgramTests.cs" Line="37" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="4_Methods" expanded="True">
+            <Node name="4_Methods" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="4_MethodsChallenge.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="4_Methods" expanded="True">
+            <Node name="4_MethodsChallenge.Tests" expanded="True">
+              <Node name="_4_MethodsChallenge.Tests" expanded="True">
+                <Node name="ProgramTests" expanded="True">
+                  <Node name="GetActionShouldGetAction(inp: 1)" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.4__Methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

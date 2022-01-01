@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0D2838FD-2575-4192-8A71-58E9B1C37323}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myRockPaperScissors/Program.cs">
+    <Files>
+      <File FileName="myRockPaperScissors/Program.cs" Line="78" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="myRockPaperScissors" expanded="True">
+            <Node name="myRockPaperScissors" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.myRockPaperScissors PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

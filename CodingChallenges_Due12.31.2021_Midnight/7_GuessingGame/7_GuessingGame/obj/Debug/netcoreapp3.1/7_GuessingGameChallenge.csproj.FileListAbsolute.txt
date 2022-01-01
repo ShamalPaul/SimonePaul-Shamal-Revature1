@@ -1,0 +1,13 @@
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/7_GuessingGame/7_GuessingGame/bin/Debug/netcoreapp3.1/7_GuessingGameChallenge.deps.json
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/7_GuessingGame/7_GuessingGame/bin/Debug/netcoreapp3.1/7_GuessingGameChallenge.runtimeconfig.json
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/7_GuessingGame/7_GuessingGame/bin/Debug/netcoreapp3.1/7_GuessingGameChallenge.runtimeconfig.dev.json
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/7_GuessingGame/7_GuessingGame/bin/Debug/netcoreapp3.1/7_GuessingGameChallenge.dll
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/7_GuessingGame/7_GuessingGame/bin/Debug/netcoreapp3.1/7_GuessingGameChallenge.pdb
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/7_GuessingGame/7_GuessingGame/obj/Debug/netcoreapp3.1/7_GuessingGameChallenge.csproj.AssemblyReference.cache
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/7_GuessingGame/7_GuessingGame/obj/Debug/netcoreapp3.1/7_GuessingGameChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/7_GuessingGame/7_GuessingGame/obj/Debug/netcoreapp3.1/7_GuessingGameChallenge.AssemblyInfoInputs.cache
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/7_GuessingGame/7_GuessingGame/obj/Debug/netcoreapp3.1/7_GuessingGameChallenge.AssemblyInfo.cs
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/7_GuessingGame/7_GuessingGame/obj/Debug/netcoreapp3.1/7_GuessingGameChallenge.csproj.CoreCompileInputs.cache
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/7_GuessingGame/7_GuessingGame/obj/Debug/netcoreapp3.1/7_GuessingGameChallenge.dll
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/7_GuessingGame/7_GuessingGame/obj/Debug/netcoreapp3.1/7_GuessingGameChallenge.pdb
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/7_GuessingGame/7_GuessingGame/obj/Debug/netcoreapp3.1/7_GuessingGameChallenge.genruntimeconfig.cache

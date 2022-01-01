@@ -1,0 +1,14 @@
+/Users/drastic/Projects/StudentList/StudentList/obj/Debug/net5.0/StudentList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drastic/Projects/StudentList/StudentList/obj/Debug/net5.0/StudentList.AssemblyInfoInputs.cache
+/Users/drastic/Projects/StudentList/StudentList/obj/Debug/net5.0/StudentList.AssemblyInfo.cs
+/Users/drastic/Projects/StudentList/StudentList/obj/Debug/net5.0/StudentList.csproj.CoreCompileInputs.cache
+/Users/drastic/Projects/StudentList/StudentList/bin/Debug/net5.0/StudentList.deps.json
+/Users/drastic/Projects/StudentList/StudentList/bin/Debug/net5.0/StudentList.runtimeconfig.json
+/Users/drastic/Projects/StudentList/StudentList/bin/Debug/net5.0/StudentList.runtimeconfig.dev.json
+/Users/drastic/Projects/StudentList/StudentList/bin/Debug/net5.0/StudentList.dll
+/Users/drastic/Projects/StudentList/StudentList/bin/Debug/net5.0/ref/StudentList.dll
+/Users/drastic/Projects/StudentList/StudentList/bin/Debug/net5.0/StudentList.pdb
+/Users/drastic/Projects/StudentList/StudentList/obj/Debug/net5.0/StudentList.dll
+/Users/drastic/Projects/StudentList/StudentList/obj/Debug/net5.0/ref/StudentList.dll
+/Users/drastic/Projects/StudentList/StudentList/obj/Debug/net5.0/StudentList.pdb
+/Users/drastic/Projects/StudentList/StudentList/obj/Debug/net5.0/StudentList.genruntimeconfig.cache

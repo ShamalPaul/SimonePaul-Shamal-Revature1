@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{8C35C10E-1F18-4FA9-8D2F-CF036B29E182}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="154" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="5_Operators" expanded="True">
+            <Node name="5_Operators" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="5_Operators" expanded="True" selected="True">
+            <Node name="5_OperatorsChallenge.Tests" expanded="True">
+              <Node name="_5_OperatorsChallenge.Tests" expanded="True">
+                <Node name="ProgramTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.5__Operators PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

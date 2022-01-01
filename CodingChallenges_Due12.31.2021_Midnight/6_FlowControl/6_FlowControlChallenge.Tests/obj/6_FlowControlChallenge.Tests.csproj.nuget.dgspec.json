@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/6_FlowControl/6_FlowControlChallenge.Tests/6_FlowControlChallenge.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/6_FlowControl/6_FlowControl/6_FlowControl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/6_FlowControl/6_FlowControl/6_FlowControl.csproj",
+        "projectName": "6_FlowControl",
+        "projectPath": "/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/6_FlowControl/6_FlowControl/6_FlowControl.csproj",
+        "packagesPath": "/Users/drastic/.nuget/packages/",
+        "outputPath": "/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/6_FlowControl/6_FlowControl/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/drastic/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/6_FlowControl/6_FlowControlChallenge.Tests/6_FlowControlChallenge.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/6_FlowControl/6_FlowControlChallenge.Tests/6_FlowControlChallenge.Tests.csproj",
+        "projectName": "6_FlowControlChallenge.Tests",
+        "projectPath": "/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/6_FlowControl/6_FlowControlChallenge.Tests/6_FlowControlChallenge.Tests.csproj",
+        "packagesPath": "/Users/drastic/.nuget/packages/",
+        "outputPath": "/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/6_FlowControl/6_FlowControlChallenge.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/drastic/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/6_FlowControl/6_FlowControl/6_FlowControl.csproj": {
+                "projectPath": "/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/6_FlowControl/6_FlowControl/6_FlowControl.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

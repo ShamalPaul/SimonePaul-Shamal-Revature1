@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{67B6BB75-03AA-4C16-B641-68E97B0A837A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="Program.cs" Line="13" Column="58" />
+      <File FileName="README.md" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="7_GuessingGameChallenge" expanded="True">
+            <Node name="7_GuessingGameChallenge" expanded="True">
+              <Node name="README.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="7_GuessingGameChallenge" expanded="True" selected="True">
+            <Node name="7_GuessingGameChallenge.Tests" expanded="True">
+              <Node name="_7_GuessingGameChallenge.Tests" expanded="True">
+                <Node name="ProgramTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.7__GuessingGameChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

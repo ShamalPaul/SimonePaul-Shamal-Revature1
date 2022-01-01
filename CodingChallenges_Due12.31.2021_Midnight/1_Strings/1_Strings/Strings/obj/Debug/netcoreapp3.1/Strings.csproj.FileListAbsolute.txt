@@ -1,0 +1,13 @@
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/1_Strings/1_Strings/Strings/bin/Debug/netcoreapp3.1/Strings.deps.json
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/1_Strings/1_Strings/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.json
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/1_Strings/1_Strings/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.dev.json
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/1_Strings/1_Strings/Strings/bin/Debug/netcoreapp3.1/Strings.dll
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/1_Strings/1_Strings/Strings/bin/Debug/netcoreapp3.1/Strings.pdb
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/1_Strings/1_Strings/Strings/obj/Debug/netcoreapp3.1/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/1_Strings/1_Strings/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfoInputs.cache
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/1_Strings/1_Strings/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfo.cs
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/1_Strings/1_Strings/Strings/obj/Debug/netcoreapp3.1/Strings.csproj.CoreCompileInputs.cache
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/1_Strings/1_Strings/Strings/obj/Debug/netcoreapp3.1/Strings.dll
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/1_Strings/1_Strings/Strings/obj/Debug/netcoreapp3.1/Strings.pdb
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/1_Strings/1_Strings/Strings/obj/Debug/netcoreapp3.1/Strings.genruntimeconfig.cache
+/Users/drastic/Desktop/REVATURE/SimonePaul-Shamal-Revature1/CodingChallenges_Due12.31.2021_Midnight/1_Strings/1_Strings/Strings/obj/Debug/netcoreapp3.1/Strings.csproj.AssemblyReference.cache

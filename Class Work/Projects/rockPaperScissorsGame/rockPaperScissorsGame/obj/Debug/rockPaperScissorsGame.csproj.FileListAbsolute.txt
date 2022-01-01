@@ -1,0 +1,6 @@
+/Users/drastic/Projects/rockPaperScissorsGame/rockPaperScissorsGame/bin/Debug/rockPaperScissorsGame.exe
+/Users/drastic/Projects/rockPaperScissorsGame/rockPaperScissorsGame/bin/Debug/rockPaperScissorsGame.pdb
+/Users/drastic/Projects/rockPaperScissorsGame/rockPaperScissorsGame/obj/Debug/rockPaperScissorsGame.csproj.AssemblyReference.cache
+/Users/drastic/Projects/rockPaperScissorsGame/rockPaperScissorsGame/obj/Debug/rockPaperScissorsGame.csproj.CoreCompileInputs.cache
+/Users/drastic/Projects/rockPaperScissorsGame/rockPaperScissorsGame/obj/Debug/rockPaperScissorsGame.exe
+/Users/drastic/Projects/rockPaperScissorsGame/rockPaperScissorsGame/obj/Debug/rockPaperScissorsGame.pdb

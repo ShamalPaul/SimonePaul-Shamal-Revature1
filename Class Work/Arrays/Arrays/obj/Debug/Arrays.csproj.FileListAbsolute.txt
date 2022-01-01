@@ -1,0 +1,6 @@
+/Users/drastic/Projects/Arrays/Arrays/obj/Debug/Arrays.csproj.CoreCompileInputs.cache
+/Users/drastic/Projects/Arrays/Arrays/bin/Debug/Arrays.exe
+/Users/drastic/Projects/Arrays/Arrays/bin/Debug/Arrays.pdb
+/Users/drastic/Projects/Arrays/Arrays/obj/Debug/Arrays.exe
+/Users/drastic/Projects/Arrays/Arrays/obj/Debug/Arrays.pdb
+/Users/drastic/Projects/Arrays/Arrays/obj/Debug/Arrays.csproj.AssemblyReference.cache
